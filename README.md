@@ -5,7 +5,7 @@ If you are not interested in tg-cli particular options like invite, del_msg, cre
 
 We recommend to you use this API Bot written in lua: https://github.com/RememberTheAir/GroupButler from a very good friend.
 
-DBTeam-bot
+telegrambot1-bot
 ============
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
